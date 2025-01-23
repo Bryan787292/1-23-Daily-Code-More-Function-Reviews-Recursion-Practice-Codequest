@@ -1,0 +1,5 @@
+def SphereArea(radius):
+    return 4*3.14*radius*radius
+
+print(SphereArea(14))
+
